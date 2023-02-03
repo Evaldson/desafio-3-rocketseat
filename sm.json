@@ -1,7 +1,8 @@
 {
-  "apiEndpoint": "https://desafioreact3.prismic.io/api/v2",
+  "_latest": "0.3.0",
+  "apiEndpoint": "https://spacetravelingvideo.prismic.io/api/v2",
   "libraries": [
     "@/slices"
   ],
-  "_latest": "0.6.1"
+  "framework": "previousNext"
 }
